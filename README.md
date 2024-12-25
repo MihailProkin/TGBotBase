@@ -65,7 +65,7 @@ TGBotBase/
 ├── database/                       # Database files
 │   └── database.py                 # Database connection file
 ├── middlewares/                    # Middleware storage
-│   └── localization_middleware.py   # Localization middleware
+│   └── localization_middleware.py  # Localization middleware
 ├── locales/                        # Localization folder
 │   └── locale.json                 # Localization file
 ├── config.py                       # For storing the token and more...
@@ -180,7 +180,7 @@ TGBotBase/
 ├── database/                       # Файли бази даних
 │   └── database.py                 # Файл для підключення до Бази Даних
 ├── middlewares/                    # Сховище Middleware
-│   └── localization_middleware.py   # Middleware для локалізації
+│   └── localization_middleware.py  # Middleware для локалізації
 ├── locales/                        # Папка з локалізацією
 │   └── locale.json                 # Файл для локалізації
 ├── config.py                       # Для зберігання токена та іншого...
@@ -295,7 +295,7 @@ TGBotBase/
 ├── database/                       # Файлы базы данных
 │   └── database.py                 # Файл для подключения к Базе Данных
 ├── middlewares/                    # Хранилище Middleware
-│   └── localization_middleware.py   # Middleware для локализации
+│   └── localization_middleware.py  # Middleware для локализации
 ├── locales/                        # Папка с локализацией
 │   └── locale.json                 # Файл для локализации
 ├── config.py                       # Для хранения токена и тд...
@@ -379,15 +379,4 @@ TGBotBase/
 
 Этот проект распространяется под лицензией MIT. Подробнее см. в файле `LICENSE`.
 
----
-
-## 📌 Notes
-
-- **Environment Variables:** It's recommended to use the `.env` file for sensitive information like bot tokens instead of hardcoding them in `config.py`.
-- **Localization:** Ensure that the `localization_middleware.py` correctly injects the `language` variable into your handlers.
-- **Dependencies:** Keep your dependencies updated by regularly checking the `requirements.txt` file.
-
----
-
-Feel free to customize each section further to better fit your project's specifics!
 
