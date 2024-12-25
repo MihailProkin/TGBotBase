@@ -1,0 +1,27 @@
+{
+    "en":{
+        "start-message": "Hello! I'm a template bot, you can change my code as you like!",
+        "inline-start": "Switch to reply keyboard",
+        "reply-start": "Switch to inline keyboard",
+        "callback-answer": "Switching",
+        "press-reply": "Text after pressing reply keyboard",
+        "press-inline": "Text after pressing inline keyboard"
+    },
+    "ru":{
+        "start-message": "Привет! Я бот шаблон, можешь изменить мой код как тебе удобно!",
+        "inline-start": "Переключиться на reply клавиатуру",
+        "reply-start": "Переключиться на inline клавиатуру",
+        "callback-answer":"Переключаю",
+        "press-reply":"Текст после нажатия на reply клавиатуру",
+        "press-inline":"Текст после нажатия на inline клавиатуру"
+
+    },
+    "uk":{
+        "start-message": "Привіт! Я бот шаблон, можеш змінити мій код як тобі зручно!",
+        "inline-start": "Переключитися на reply клавіатуру",
+        "reply-start": "Переключитися на клавіатуру inline",
+        "callback-answer":"Перемикаю",
+        "press-reply":"Текст після натискання на reply клавіатуру",
+        "press-inline":"Текст після натискання на inline клавіатуру"
+    }
+}
